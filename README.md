@@ -1,1 +1,1 @@
-test coment
+これはテスト用のREADMEです
